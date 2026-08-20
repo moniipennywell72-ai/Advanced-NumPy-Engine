@@ -106,7 +106,6 @@ def f(x):
     return x**2 + 5 * np.sin(x)
 
 print(gradient_descent(f, lr=0.01, steps=500))
-
 # Benchmarks
 benchmark_all()
 
