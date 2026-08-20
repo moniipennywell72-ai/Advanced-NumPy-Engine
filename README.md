@@ -109,6 +109,7 @@ print(gradient_descent(f, lr=0.01, steps=500))
 
 # Benchmarks
 benchmark_all()
+
 🎯 Goals
 Demonstrate real scientific‑computing performance
 
